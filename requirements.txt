@@ -11,3 +11,4 @@ Pillow==9.5.0
 setuptools==65.5.1
 matplotlib==3.6.3
 wordcloud==1.8.2.2
+textblob==0.17.1
